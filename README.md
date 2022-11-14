@@ -36,4 +36,4 @@ Over the course of anyones career, they will compile a list of resources be book
 * [Finite and Infinite Games of Leadership](https://www.youtube.com/watch?v=_osKgFwKoDQ)
 
 # Contributors
-Many of these recommendations are courtsey of [Junjun Olympia](https://github.com/beljun](https://www.linkedin.com/in/junjunolympia/). A big thanks to his constant drive to promote learning under his leadership.
+Many of these recommendations are courtsey of [Junjun Olympia](https://www.linkedin.com/in/junjunolympia/). A big thanks to his constant drive to promote learning under his leadership.
