@@ -105,6 +105,7 @@ disqus:
 markdown: kramdown
 
 kramdown:
+  parse_block_html: true
   input: GFM
   hard_wrap: false
   math_engine: katex
