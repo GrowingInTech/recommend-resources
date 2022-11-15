@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dwsmith1983.github.io/recommend-resources"
 languageCode = "en-us"
 title = "Recommended Tech Content"
 theme = "terminal"
