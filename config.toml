@@ -47,11 +47,11 @@ paginate = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  Toc = true # default
+  # Toc = false # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  TocTitle = "Table of Contents" # default
+  # TocTitle = "Table of Contents" # default
 
 
 [params.twitter]
