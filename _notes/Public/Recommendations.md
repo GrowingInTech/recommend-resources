@@ -15,6 +15,7 @@ Over the course of anyones career, they will compile a list of resources be book
 * [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
 * [Zapp! The Lightning of Empowerment](https://www.amazon.com/Zapp-Lightning-Empowerment-Productivity-Satisfaction/dp/0449002829)
+* [An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
 
 ### Big Data
 * [High Performance Spark](https://www.amazon.de/-/en/Holden-Karau/dp/1491943203/)
@@ -25,9 +26,10 @@ Over the course of anyones career, they will compile a list of resources be book
 * [Clean Code](https://www.amazon.de/-/en/Robert-Martin/dp/0132350882/)
 * [Clean Architecture](https://www.amazon.de/Robert-C-Martin/dp/0134494164/)
 
-### System Design
+### Design
 * [System Design](https://www.amazon.de/Alex-Xu/dp/B08CMF2CQF/)
 * [Designing Data-Intensive Applications](https://www.amazon.de/-/en/Martin-Kleppmann/dp/1449373321/)
+* [Data Mesh: Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
 
 ### Decision Making
 * [Game Theory: Analysis of Conflict](https://www.amazon.de/gp/product/0674341163/)
@@ -37,10 +39,18 @@ Over the course of anyones career, they will compile a list of resources be book
 * [Mastering Object Oriented Python](https://www.amazon.de/-/en/Steven-F-Lott/dp/1789531365/)
 * [Programming in Scala](https://www.amazon.de/-/en/Martin-Odersky-ebook/dp/B097KT5XNK/)
 * [Java: A Beginners Guide](https://www.amazon.de/-/en/Herbert-Schildt-dp-1260463559/dp/1260463559/)
+* [Hands-on Scala Programming](https://www.handsonscala.com/)
+
+### Early Career
+* [The Coding Career Handbook](https://learninpublic.org/)
+
+### Product Management
+* [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
 ## YouTube
 ### Decision Making
 * [Finite and Infinite Games of Leadership](https://www.youtube.com/watch?v=_osKgFwKoDQ)
+* [The Cynefin Framework](https://www.youtube.com/watch?v=N7oz366X0-8)
 
 # Contributors
 Many of these recommendations are courtsey of [Junjun Olympia](https://www.linkedin.com/in/junjunolympia/). A big thanks to his constant drive to promote learning under his leadership.
