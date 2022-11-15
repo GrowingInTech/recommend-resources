@@ -15,7 +15,6 @@ Over the course of anyones career, they will compile a list of resources be book
 * [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
 * [Zapp! The Lightning of Empowerment](https://www.amazon.com/Zapp-Lightning-Empowerment-Productivity-Satisfaction/dp/0449002829)
-*
 
 ### Big Data
 * [High Performance Spark](https://www.amazon.de/-/en/Holden-Karau/dp/1491943203/)
