@@ -52,6 +52,3 @@ Over the course of anyone's career, they will compile a list of resources be boo
 ### Decision Making
 * [Finite and Infinite Games of Leadership](https://www.youtube.com/watch?v=_osKgFwKoDQ)
 * [The Cynefin Framework](https://www.youtube.com/watch?v=N7oz366X0-8)
-
-# Contributors
-Many of these recommendations are courtsey of [Junjun Olympia](https://www.linkedin.com/in/junjunolympia/). A big thanks to his constant drive to promote learning under his leadership.
