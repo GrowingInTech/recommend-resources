@@ -1,6 +1,5 @@
 baseurl = "https://www.growingintech.com/"
 languageCode = "en-us"
-enableRobotsTXT = true
 googleAnalytics = "G-D1NENHT215"
 title = "Growing in Tech"
 theme = "terminal"
