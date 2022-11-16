@@ -1,5 +1,6 @@
 baseurl = "https://www.growingintech.com/"
 languageCode = "en-us"
+enableRobotsTXT = true
 googleAnalytics = "G-D1NENHT215"
 title = "Growing in Tech"
 theme = "terminal"
@@ -34,6 +35,9 @@ canonifyurls = true
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
   showLastUpdated = false
+
+  # SEO description
+  description = "Where developers come to learn and grow. No need to search for what read or watch as we are curating just for you."
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
