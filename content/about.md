@@ -1,12 +1,3 @@
----
-title: About
-draft: false
-summary: During my time working for Junjun, he would always have some recommended article or reading.
-A lot of the content was relevant for both technical, leadership, managerial, and personal
-growth. 
----
-
-
 # Why create this resource?
 During my time working for Junjun, he would always have some recommended article or reading.
 A lot of the content was relevant for both technical, leadership, managerial, and personal 
