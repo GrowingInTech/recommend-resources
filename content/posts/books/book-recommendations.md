@@ -43,3 +43,6 @@ summary: As beginner and even a seasoned veteran in tech, we sometimes struggle 
 ## Product Management
 * [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
+## Negotiating/Arguing
+* [Negotiating the Nonnegotiable](https://www.amazon.com/Negotiating-Nonnegotiable-Resolve-Emotionally-Conflicts/dp/0143110179)
+
