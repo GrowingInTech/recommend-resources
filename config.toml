@@ -1,6 +1,6 @@
-baseurl = "https://dwsmith1983.github.io/recommend-resources/"
+baseurl = "https://www.growingintech.com/"
 languageCode = "en-us"
-title = "Recommended Tech Content"
+title = "Growing in Tech"
 theme = "terminal"
 paginate = 5
 canonifyurls = true
@@ -87,3 +87,7 @@ canonifyurls = true
         identifier = "about"
         name = "About"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "contributors"
+        name = "Contributors"
+        url = "/contributors"
