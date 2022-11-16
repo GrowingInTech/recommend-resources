@@ -2,11 +2,12 @@
 title: Recommendations
 date: 14-11-2022
 draft: false
+summary: Over the course of anyone's career, they will compile a list of resources be books, articles, YouTube, etc. that have been recommended to them or discovered by them. Here we keep a list of recommendations by topic and type.
 ---
 
 
 # Recommendations
-Over the course of anyones career, they will compile a list of resources be books, articles, YouTube, etc. that have been recommended to them of discovered by them. Here we keep a list of recommendations by topic and type.
+Over the course of anyone's career, they will compile a list of resources be books, articles, YouTube, etc. that have been recommended to them or discovered by them. Here we keep a list of recommendations by topic and type.
 
 ## Books
 ### Leadership, Teams, and Management
