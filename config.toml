@@ -1,8 +1,9 @@
-baseurl = "https://dwsmith1983.github.io/recommend-resources"
+baseurl = "https://dwsmith1983.github.io/recommend-resources/"
 languageCode = "en-us"
 title = "Recommended Tech Content"
 theme = "terminal"
 paginate = 5
+canonifyurls = true
 
 [params]
   # dir name of your main content (default is `content/posts`).
