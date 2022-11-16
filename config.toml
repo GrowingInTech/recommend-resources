@@ -54,7 +54,6 @@ canonifyurls = true
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
@@ -65,9 +64,9 @@ canonifyurls = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "Growing in Tech"
+    subtitle = "Resources for those just starting or looking grow."
+    owner = "Dustin Smith"
     keywords = ""
     copyright = "2022"
     menuMore = "Show more"
@@ -79,7 +78,7 @@ canonifyurls = true
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Growing in Tech"
       logoHomeLink = "/"
 
     [languages.en.menu]
