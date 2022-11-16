@@ -65,7 +65,7 @@ canonifyurls = true
   [languages.en]
     languageName = "English"
     title = "Growing in Tech"
-    subtitle = "Resources for those just starting or looking grow."
+    subtitle = "Resources for those just starting out or looking to grow."
     owner = "Dustin Smith"
     keywords = ""
     copyright = "2022"
