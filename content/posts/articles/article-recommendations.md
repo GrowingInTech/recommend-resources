@@ -6,11 +6,9 @@ summary: Blog posts, whitepapers, and other textual content on the net
 ---
 
 ## Strategy
-
 * [The Three Horizons of Growth](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-the-three-horizons-of-growth)
 
 ## Big Data
-
 * [Spark Research](https://spark.apache.org/research.html)
 
 ## Design
