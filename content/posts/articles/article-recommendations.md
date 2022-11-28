@@ -2,7 +2,7 @@
 title: Article Recommendations
 date: 19-11-2022
 draft: false
-summary: Blog posts, whitepapers, and other textual content on the net
+summary: Blog posts, whitepapers, and other textual content on the net.
 ---
 
 ## Strategy
