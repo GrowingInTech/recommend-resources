@@ -2,7 +2,7 @@
 title: Book Recommendations
 date: 16-11-2022
 draft: false
-summary: As beginner and even a seasoned veteran in tech, we sometimes struggle to find what is next. Here we have compiled a few books to propel your career.
+summary: Here we have compiled a few books to help propel your career.
 ---
 
 ## Leadership, Teams, and Management
