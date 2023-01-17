@@ -22,6 +22,9 @@ summary: Blog posts, whitepapers, and other textual content on the net.
 ## Thinking
 * [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/)
 
+## Leadership
+* [Psychological Safety and the Critical Role of Leadership Development](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/psychological-safety-and-the-critical-role-of-leadership-development)
+
 ## Communicating
 * [PREP: Point, Reason, Example, Point](https://www.write-out-loud.com/impromptu-speech-outline.html#PREP)
 * [Minto Pyramid](https://untools.co/minto-pyramid)
