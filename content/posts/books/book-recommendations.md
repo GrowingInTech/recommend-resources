@@ -12,6 +12,7 @@ summary: Here we have compiled a few books to help propel your career.
 * [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
 * [Zapp! The Lightning of Empowerment](https://www.amazon.com/Zapp-Lightning-Empowerment-Productivity-Satisfaction/dp/0449002829)
 * [An Elegant Puzzle](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
+* [The Culture Map](https://erinmeyer.com/books/the-culture-map/)
 
 ## Big Data
 * [High Performance Spark](https://www.amazon.de/-/en/Holden-Karau/dp/1491943203/)
